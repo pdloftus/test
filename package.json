@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdloftus/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Peter Loftus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdloftus/test/issues"
+  },
+  "homepage": "https://github.com/pdloftus/test"
+}
